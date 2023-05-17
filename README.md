@@ -4,7 +4,7 @@ rm -rf fuck
 git clone https://github.com/KngJANAN404/fuck
 
 
-fuck
+cd fuck
 
 
 phthon fuck_enc.py
