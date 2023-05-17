@@ -7,4 +7,4 @@ git clone https://github.com/KngJANAN404/fuck
 cd fuck
 
 
-phthon fuck_enc.py
+python fuck_enc.py
